@@ -5,7 +5,7 @@ const islands: Island[] = [
     id: 'island_arabic',
     title: 'جزيرة اللغة العربية',
     description: 'تعلم الكلمات وحروف اللغة العربية عبر ألغاز ممتعة.',
-    artwork: 'assets/islands/island_arabic.png',
+    artwork: 'assets/islands/island_illustration_1.svg',
     levels: [
       {
         id: 'level_1_ar',
@@ -52,7 +52,7 @@ const islands: Island[] = [
     id: 'island_heritage',
     title: 'جزيرة التراث',
     description: 'ألغاز ومعالم من التراث العربي الإسلامي.',
-    artwork: 'assets/islands/island_heritage.png',
+    artwork: 'assets/islands/island_illustration_2.svg',
     levels: [
       {
         id: 'level_heritage_1',
@@ -69,6 +69,22 @@ const islands: Island[] = [
             answer: 'الجامع الأموي',
           },
         ],
+      },
+    ],
+  },
+  {
+    id: 'island_world',
+    title: 'ج��يرة العالم',
+    description: 'استكشف معالم عالمية ضمن ألغاز مسلية.',
+    artwork: 'assets/islands/island_illustration_3.svg',
+    levels: [
+      {
+        id: 'level_world_1',
+        title: 'المستوى 1',
+        description: 'معالم ومفاهيم عامة.',
+        unlocked: false,
+        stars: 0,
+        puzzles: [],
       },
     ],
   },

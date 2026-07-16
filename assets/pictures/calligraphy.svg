@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="100%" height="100%" rx="16" fill="#fff8e1" />
+  <g transform="translate(60,60) scale(0.7)">
+    <path d="M40 80 C120 10, 280 10, 360 80" stroke="#5d4037" stroke-width="10" fill="none" />
+    <path d="M60 160 C140 80, 260 80, 340 160" stroke="#4e342e" stroke-width="8" fill="none" />
+    <text x="120" y="240" font-family="'Segoe UI', Roboto, Arial" font-size="36" fill="#3e2723">بِسْمِ</text>
+  </g>
+</svg>

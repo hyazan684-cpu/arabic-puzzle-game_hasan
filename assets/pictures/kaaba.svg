@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="100%" height="100%" rx="16" fill="#eceff1" />
+  <g transform="translate(60,60) scale(0.7)">
+    <!-- Simplified Kaaba cube stylized -->
+    <rect x="120" y="80" width="160" height="140" fill="#231f20" rx="6" />
+    <rect x="120" y="80" width="160" height="40" fill="#4e342e" opacity="0.2" />
+    <path d="M120 140 L200 110 L280 140" stroke="#ffd54f" stroke-width="6" fill="none" />
+  </g>
+</svg>
